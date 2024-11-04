@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: bn1zcpuj6-go-repository
+spec:
+  url: https://github.com/xjiangorg/bn1zcpuj6-go
